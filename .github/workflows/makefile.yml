@@ -18,7 +18,7 @@ jobs:
           kernel-url: https://github.com/StarCloudss/android_kernel_5.10_oppo_mt6983
           kernel-dir: Lin-5.10
           kernel-branch: oppo/mt6983_v_15.0.0_find_x5_pro
-          config: k6893v1_64_k510_defconfig
+          config: mgk_64_khwasan_k510_defconfig
           arch: arm64
           aosp-gcc: true
           aosp-clang: true
